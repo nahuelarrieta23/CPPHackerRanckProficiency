@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // Complete the code.
+    
     int _int;
     long _long;
     char _ch;
